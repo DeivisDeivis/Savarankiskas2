@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.IO;
 
-namespace _2_Sav
+namespace Savarankiskas2
 {
     internal class Program
     {
